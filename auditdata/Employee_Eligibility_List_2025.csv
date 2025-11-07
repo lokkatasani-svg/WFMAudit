@@ -1,0 +1,11 @@
+EmployeeID,Name,JobTitle,Department,WFM_Eligibility_Status,ApprovalDate
+1001,John Smith,Financial Analyst,Finance,Eligible,1/15/2025
+1002,Sarah Johnson,IT Specialist,Information Technology,Eligible,2/20/2025
+1003,Michael Brown,Branch Manager,Operations,Not Eligible,
+1004,Linda Davis,Compliance Officer,Compliance,Eligible,3/5/2025
+1005,David Wilson,Software Developer,Information Technology,Eligible,1/10/2025
+1006,Emily Martinez,Customer Service Rep,Customer Service,Not Eligible,
+1007,James Taylor,Risk Manager,Risk Management,Eligible,4/12/2025
+1008,Maria Hernandez,HR Coordinator,Human Resources,Eligible,2/27/2025
+1009,Robert Lee,Loan Officer,Credit,Eligible,3/19/2025
+1010,Patricia Kim,Marketing Specialist,Marketing,Not Eligible,

@@ -1,0 +1,11 @@
+EmployeeID,Name,WFM_Eligibility,Cybersecurity_Training_Completed,Training_Completion_Date
+1001,John Smith,Eligible,Yes,2/1/2024
+1002,Sarah Johnson,Eligible,Yes,2/5/2025
+1003,Michael Brown,Not Eligible,N/A,
+1004,Linda Davis,Eligible,Yes,3/10/2025
+1005,David Wilson,Eligible,No,
+1006,Emily Martinez,Not Eligible,N/A,
+1007,James Taylor,Eligible,Yes,4/15/2025
+1008,Maria Hernandez,Eligible,Yes,3/1/2025
+1009,Robert Lee,Eligible,Yes,4/1/2025
+1010,Patricia Kim,Not Eligible,N/A,
